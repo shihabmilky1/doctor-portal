@@ -1,0 +1,42 @@
+.my-card{
+  overflow:hidden;
+  transition: .7s;
+}
+.my-card:hover{
+    background: linear-gradient(to right, #19d3ae, #00d3c1, #00d2d2, #00d1e1, #0fcfec);
+    color: #fff !important;
+}
+.my-card:hover .blog-main-content{
+    display: none;
+}
+.my-card:hover .my-card-hover{
+    height: auto;
+    transform: translateX(0);
+    transition: .7s;
+    margin-top: 30px;
+   
+ }
+ .my-card:hover .card-body{
+    background: url(../../../images/quote.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+    background-size: 150px;
+ }
+
+.my-card:hover .blog-des , p{
+    color: #fff !important;
+}
+.my-card-hover{
+   height: 0;
+   transform: translateX(-100px)
+}
+.card-right{
+    transition: .3s;
+}
+.card-right:hover{
+    transform: translateX(20px);
+    transition: .3s;
+}
+.blog-main-content{
+
+}

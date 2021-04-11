@@ -1,0 +1,17 @@
+.Appointment-container{
+    background: linear-gradient(#454e618c,#454e618c),linear-gradient(#454e618c,#454e618c), url(../../../images/appointmentBg.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 420px;
+    
+}
+.Appointment-container img {
+    /* transform: translateY(-130px); */
+    margin-top: -130px;
+    height: 550px
+}
+.my-btn{
+    background-image: linear-gradient(to right, #19d3ae, #00d3c1, #00d2d2, #00d1e1, #0fcfec);color:white;border-radius: 0;padding:10px 30px;
+}

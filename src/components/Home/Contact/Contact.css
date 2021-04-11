@@ -1,0 +1,7 @@
+.contact-section{
+    background: linear-gradient(#454e618c,#454e618c),linear-gradient(#454e618c,#454e618c), url(../../../images/appointmentBg.png);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
