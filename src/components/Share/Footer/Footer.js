@@ -56,7 +56,7 @@ const Footer = () => {
                             <li><Link to=""><FontAwesomeIcon className="mt-5 social-link" style={{}} icon={faTwitter} /></Link></li>
                         </ul>
                     </div>
-                    <div className="">
+                    <div className="mt-5">
                         <p className="text-secondary">Call Now</p>
                         <button className="btn my-btn">+2025550295</button>
                     </div>

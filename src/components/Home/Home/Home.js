@@ -2,7 +2,7 @@ import React from 'react';
 import Blog from '../Blog/Blog';
 import Contact from '../Contact/Contact';
 import Doctor from '../Doctor/Doctor';
-import Footer from '../Footer/Footer';
+import Footer from '../../Share/Footer/Footer';
 import FutureService from '../FutureService/FutureService';
 import Header from '../Header/Header';
 import MakeAppointment from '../MakeAppointment/MakeAppointment';

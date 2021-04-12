@@ -24,7 +24,7 @@
  }
 
 .my-card:hover .blog-des , p{
-    color: #fff !important;
+    color: #fff;
 }
 .my-card-hover{
    height: 0;
